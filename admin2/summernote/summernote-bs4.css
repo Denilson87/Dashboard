@@ -11,8 +11,7 @@
 [class*=" note-icon"]:before {
   display: inline-block;
   font-family: summernote;
-  font-style: normal;
-  font-size: inherit;
+  font-style: normal; font-size: inherit;
   text-decoration: inherit;
   text-rendering: auto;
   text-transform: none;
